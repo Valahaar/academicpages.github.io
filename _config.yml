@@ -11,9 +11,9 @@ title                    : "Niccolò Campolungo - PhD student"
 title_separator          : "-"
 name                     : &name "Niccolò Campolungo"
 description              : &description "1st year PhD student in NLP@Sapienza."
-url                      : https://valahaar.github.io/personal # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://valahaar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Valahaar/personal"
+repository               : "Valahaar/valahaar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -105,7 +105,7 @@ author:
 #   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/1908499/niccolò-campolungo
+  stackoverflow    : 1908499/niccolò-campolungo
   steam            :
   tumblr           :
   twitter          : "Valahaar"
